@@ -34,6 +34,7 @@ h3{font-size:1.12rem;font-weight:500;margin:0}
 .job{padding:12px 0}.job+.job{border-top:1px solid var(--line);padding-top:18px}.job .meta{color:var(--mut);font-size:.95rem}.job ul{margin:6px 0 0;padding-left:1.1em}.job li::marker{color:var(--ac)}
 .list>div{padding:10px 0;border-bottom:1px solid var(--line)}.list p{margin:2px 0 0;color:hsl(215 20% 30%)}.list>div:last-child{border:0}
 .list .meta{color:var(--mut);font-size:.95rem}
+.diploma{margin:14px 0 4px;max-width:340px}.diploma a:has(img){display:block;padding:6px;background:var(--card);border:1px solid var(--line);border-radius:4px;box-shadow:0 0 0 1px hsl(43 65% 48% / .25),0 8px 22px hsl(40 30% 60% / .22);transition:box-shadow .2s,transform .2s}.diploma a:has(img):hover{box-shadow:0 0 0 1px var(--ac),0 10px 26px hsl(40 30% 60% / .32);transform:translateY(-1px)}.diploma img{display:block;width:100%;height:auto}.diploma figcaption{color:var(--mut);font-size:.9rem;margin-top:8px;font-variant-numeric:lining-nums}
 .skills{display:grid;gap:16px}.skills h3{font:500 1.15rem var(--disp);color:var(--ac2);margin-bottom:6px}
 .chips{display:flex;flex-wrap:wrap;gap:6px 8px;margin:0;padding:0;list-style:none}.chips>li{border:1px solid var(--line);border-radius:99px;padding:1px 11px;font-size:.92rem;background:var(--card)}
 .contact{display:grid;grid-template-columns:auto 1fr;gap:4px 24px;margin:12px 0 0}.contact dt{color:var(--mut)}.contact dd{margin:0;overflow-wrap:anywhere}
